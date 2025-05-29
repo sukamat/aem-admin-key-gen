@@ -6,8 +6,8 @@ Admin privileges are required to generate the API keys.
 ## Usage
 
 ```
-$ chmod +x create_api_key.sh
-$ ./create_api_key.sh your-site-name your-auth-token
+$ chmod +x create-admin-api-key.sh
+$ ./create-admin-api-key.sh your-site-name your-auth-token
 ```
 
 For example, to generate Admin API key for adobecom/bacom:
