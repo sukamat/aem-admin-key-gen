@@ -1,5 +1,7 @@
 # aem-admin-key-gen
 
+## Pre-requisite
+Admin privileges are required to generate the API keys.
 
 ## Usage
 
